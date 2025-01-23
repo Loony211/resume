@@ -36,7 +36,7 @@
   </a>
 </div >
 <div align="center">
--- Конспекты --
+-- Презентации --
 <div id="badges" align="center">
    <a href="https://docs.google.com/presentation/d/1VOGdYVVg7ED0S4ggrrTiFzDes7Nx1DIE/edit?usp=sharing&ouid=101743919987561321728&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/тела вращения вокруг нас-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
@@ -47,3 +47,10 @@
 </div >
 <div align="center">
 
+## Практика
+<div id="badges" align="center">
+   <a href="loony211.github.io/praktika/practika.html">
+    <img src="https://img.shields.io/badge/сайт-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
+ </a>
+</div >
+<div align="center">
